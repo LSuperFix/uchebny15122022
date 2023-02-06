@@ -1,0 +1,15 @@
+.mymodal__contreiner {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: $background-modal;
+}
+
+.mymodal__contreiner_active {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

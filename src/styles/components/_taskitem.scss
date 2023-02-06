@@ -1,0 +1,16 @@
+.item__contaner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  height: auto;
+  border: 1px solid $primary-color;
+  padding: 8px 25px 10px 25px;
+  color: $primary-color;
+  background-color: $back-color;
+  margin: 10px 0 10px 0;
+}
+
+.item__textblock {
+  margin-right: 5%;
+}

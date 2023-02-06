@@ -1,0 +1,18 @@
+// base
+@import "base/reset";
+
+//Utilities
+@import './utilities/variables';
+
+//Components
+@import './components/taskslist';
+@import './components/taskitem';
+@import './components/addform';
+
+//UI
+@import './components/UI/mybutton';
+@import './components/UI/myinput';
+@import './components/UI/mymodal';
+@import './components/UI/loarder';
+@import './components/UI/pagination';
+@import './components/UI/navbar';
